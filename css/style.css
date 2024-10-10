@@ -176,6 +176,7 @@ body{
 .article-preview{
     padding: 24px;
     background: #6578a5;
+    min-height: 350px;
 }
 
 .articles figure{
